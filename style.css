@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300');
+
+body{
+  background-color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: rgb(60, 59, 69)
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+}
+
+.banner{
+  background-image: url("images/lloyd-henneman-mBRfYA0dYYE-unsplash.jpg");
+  background-position: center;
+  background-size: cover;
+  padding:80px;
+  max-height: 400px;
+}
+
+.banner-container{
+  width: 80vw;
+  margin: 200px auto;
+}
+
+.container {
+  width: 80vw;
+  margin: 50px auto;
+}
+
+.banner h1, .banner p{
+  color: white;
+}
