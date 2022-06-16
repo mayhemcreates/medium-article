@@ -4,7 +4,8 @@ body{
   background-color: white;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
-  color: rgb(60, 59, 69)
+  color: rgb(60, 59, 69);
+  line-height: 1.2;
 }
 
 p {
